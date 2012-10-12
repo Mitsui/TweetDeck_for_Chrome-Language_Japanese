@@ -330,7 +330,7 @@
       "message": "Removing account!"
    },
    "Reply": {
-      "message": "Reply"
+      "message": "返信"
    },
    "Replying": {
       "message": "Replying"
@@ -871,8 +871,5 @@
    },
    "Dec": {
       "message": "12"
-   },
-   "Block@": {
-      "message": "@{{screenName}} Block"
    }
 }
