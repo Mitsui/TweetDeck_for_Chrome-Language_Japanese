@@ -871,5 +871,8 @@
    },
    "Dec": {
       "message": "12"
+   },
+   "EditampRT": {
+      "message": "非公式RT"
    }
 }
