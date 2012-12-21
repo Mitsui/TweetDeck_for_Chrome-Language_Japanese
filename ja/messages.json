@@ -874,5 +874,11 @@
    },
    "EditampRT": {
       "message": "非公式RT"
+   },
+   "Embedthistweet": {
+      "message": "このツイートをサイトに埋め込む"
+   },
+   "retweeted": {
+      "message": "さんがリツイート"
    }
 }
