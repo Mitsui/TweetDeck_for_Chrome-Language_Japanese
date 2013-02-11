@@ -880,5 +880,20 @@
    },
    "retweeted": {
       "message": "さんがリツイート"
+   },
+   "Keyboardshortcuts": {
+      "message": "キーボードショートカット"
+   },
+   "Theme": {
+      "message": "テーマ:"
+   },
+   "Dark": {
+      "message": "ダーク"
+   },
+   "Light": {
+      "message": "ライト"
+   },
+   "Setasdefault": {
+      "message": "デフォルト設定"
    }
 }
