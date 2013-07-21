@@ -1018,5 +1018,14 @@
    },
    "Deletelist": {
       "message": "リストを削除"
+   },
+   "Thefollowingmediamaycontainsensitivematerial": {
+      "message": "この画像/動画は非表示になっています。"
+   },
+   "Alwaysshowmesensitivemedia": {
+      "message": "このような画像/動画を常に表示する"
+   },
+   "View": {
+      "message": "この画像/動画を表示する"
    }
 }
