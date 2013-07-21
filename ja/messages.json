@@ -590,9 +590,6 @@
    "ApplicationSettings": {
       "message": "設定"
    },
-   "TwitterStreaming": {
-      "message": "ストリーミング"
-   },
    "AddTwitterAccount": {
       "message": "Twitterアカウント追加"
    },
@@ -792,7 +789,7 @@
       "message": "通常"
    },
    "Fontsize": {
-      "message": "フォントサイズ:"
+      "message": "フォント:"
    },
    "Small": {
       "message": "小"
@@ -895,5 +892,131 @@
    },
    "Setasdefault": {
       "message": "デフォルト設定"
+   },
+   "Showing": {
+      "message": "表示する"
+   },
+   "matching": {
+      "message": "マッチ"
+   },
+   "excluding": {
+      "message": "非表示"
+   },
+   "allTweets": {
+      "message": "すべてのツイート"
+   },
+   "Tweetswithimages": {
+      "message": "画像ツイート"
+   },
+   "Tweetswithvideos": {
+      "message": "動画ツイート"
+   },
+   "Tweetswithanymedia": {
+      "message": "メディアツイート"
+   },
+   "Tweetswithlinks": {
+      "message": "リンクツイート"
+   },
+   "Smallest": {
+      "message": "最小"
+   },
+   "Largest": {
+      "message": "最大"
+   },
+   "Wide": {
+      "message": "広い"
+   },
+   "Source": {
+      "message": "クライアント名"
+   },
+   "Alerts": {
+      "message": "アラート"
+   },
+   "Users": {
+      "message": "ユーザー"
+   },
+   "Content": {
+      "message": "コンテンツ"
+   },
+   "None": {
+      "message": "なし"
+   },
+   "Sounds": {
+      "message": "サウンド"
+   },
+   "Popups": {
+      "message": "通知表示"
+   },
+   "SoundsandPopups": {
+      "message": "サウンドとポップアップ"
+   },
+   "Clearhistory": {
+      "message": "履歴クリア"
+   },
+   "Expand": {
+      "message": "広げる"
+   },
+   "Collapse": {
+      "message": "折りたたむ"
+   },
+   "Mute": {
+      "message": "ミュート"
+   },
+   "StreamTweetsInRealtime": {
+      "message": "ストリーミングを有効"
+   },
+   "Displaymediathatmaycontainsensitivecontent": {
+      "message": "不適切な内容を含む可能性のある画像/動画を表示する"
+   },
+   "DefaultAccount": {
+      "message": "デフォルトアカウント"
+   },
+   "MakeDefault": {
+      "message": "デフォルトにする"
+   },
+   "User": {
+      "message": "ユーザー名"
+   },
+   "Any": {
+      "message": "すべて"
+   },
+   "allusers": {
+      "message": "すべてのユーザー"
+   },
+   "specificuser": {
+      "message": "特定のユーザー"
+   },
+   "username": {
+      "message": "ユーザー名"
+   },
+   "mentioning": {
+      "message": "メンション"
+   },
+   "Me": {
+      "message": "自分"
+   },
+   "verifiedusers": {
+      "message": "検証されたユーザー"
+   },
+   "PREVIEWS": {
+      "message": "プレビュー"
+   },
+   "ShowingImages": {
+      "message": "画像ツイート"
+   },
+   "ShowingVideos": {
+      "message": "動画ツイート"
+   },
+   "Showingimagesandvideos": {
+      "message": "メディアツイート"
+   },
+   "Showinglinks": {
+      "message": "リンクツイート"
+   },
+   "ByVerifiedUsers": {
+      "message": "検証されたユーザー"
+   },
+   "Deletelist": {
+      "message": "リストを削除"
    }
 }
