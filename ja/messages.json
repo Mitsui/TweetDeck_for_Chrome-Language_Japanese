@@ -1027,5 +1027,23 @@
    },
    "View": {
       "message": "この画像/動画を表示する"
+   },
+      "StayOpen": {
+      "message": "開いたままにする"
+   },
+      "Addimage": {
+      "message": "画像を追加"
+   },
+      "ScheduleTweet": {
+      "message": "スケジュールツイート"
+   },
+      "Directmessage": {
+      "message": "ダイレクトメッセージ"
+   },
+      "Whatshappening": {
+      "message": "いまどうしてる？"
+   },
+      "NewTweet": {
+      "message": "ツイートする"
    }
 }
