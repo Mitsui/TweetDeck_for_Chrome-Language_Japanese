@@ -137,9 +137,6 @@
    "Directmessageto1": {
       "message": "Direct message to {{1}}"
    },
-   "Done": {
-      "message": "Done"
-   },
    "Dragcolumnheadertoreorder": {
       "message": "Drag column header to reorder"
    },
@@ -371,17 +368,14 @@
    "SearchTwitterusersfor1": {
       "message": "Search Twitter users for {{1}}"
    },
-   "Searching": {
-      "message": "Searching"
-   },
    "Send": {
       "message": "送信"
    },
    "Sending": {
-      "message": "Sending..."
+      "message": "送信中..."
    },
    "Sendingfailed": {
-      "message": "Sending failed"
+      "message": "送信に失敗しました"
    },
    "Sendingupdateto1": {
       "message": "{{1}} にアップデートを送信中"
@@ -897,10 +891,10 @@
       "message": "表示する"
    },
    "matching": {
-      "message": "マッチ"
+      "message": "一致する"
    },
    "excluding": {
-      "message": "非表示"
+      "message": "除外する"
    },
    "allTweets": {
       "message": "すべてのツイート"
@@ -1045,5 +1039,86 @@
    },
       "NewTweet": {
       "message": "ツイートする"
+   },
+      "TweettoscreenName": {
+      "message": "@{{screenName}}さんへツイート"
+   },
+      "BlockscreenName": {
+      "message": "@{{screenName}}さんをブロック"
+   },
+      "ReportscreenNameforspam": {
+      "message": "@{{screenName}}さんをスパムとして報告"
+   },
+      "Yourrelationshiptotextuser_link_screenname": {
+      "message": "{{>text/user_link_screenname}}さんとのつながり"
+   },
+      "Yourlists": {
+      "message": "自分のリスト"
+   },
+      "Includetextuser_link_screennamein": {
+      "message": "{{>text/user_link_screenname}}を含む"
+   },
+      "FavoritefromgetUsername": {
+      "message": "{{getUsername}}さんがお気に入りに追加"
+   },
+      "userfollowedyou": {
+      "message": "{{{user}}}さんにフォローされました"
+   },
+      "usermentionedyou": {
+      "message": "{{{user}}}さんがあなたに@ツイートしました"
+   },
+      "userfavorited": {
+      "message": "{{{user}}}さんがお気に入りに登録"
+   },
+      "Off": {
+      "message": "オフ"
+   },
+      "YourAccounts": {
+      "message": "あなたのアカウント"
+   },
+      "Enteranameorfullname": {
+      "message": "@ユーザー名または名前を入力してください"
+   },
+      "Mylists": {
+      "message": "自分のリスト"
+   },
+      "Createanewlistorselectanexistinglisttoeditoraddacolumn": {
+      "message": "新しいリストを作成するか、既存のリストを選択して、コラムを編集または追加します"
+   },
+      "AddacolumntomonitorTweetsforanyTrend": {
+      "message": "トレンドを1つ追うためにコラムを追加"
+   },
+      "Worldwide": {
+      "message": "世界中"
+   },
+      "Allaccounts": {
+      "message": "すべてのアカウント"
+   },
+      "Allinteractions": {
+      "message": "すべてのみんなの反応"
+   },
+      "Enterwordstoexclude": {
+      "message": "除外する単語を入力"
+   },
+      "Enterwordstomatch": {
+      "message": "一致する単語を入力"
+   },
+      "included": {
+      "message": "含む"
+   },
+      "excluded": {
+      "message": "除く"
+   },
+      "Suggested": {
+      "message": "おすすめ"
+   },
+      "Done": {
+      "message": "完了"
+   },
+      "Followedby": {
+      "message": "次の方にフォローされています"
+   },
+      "AddColumn": {
+      "message": "コラムを追加する"
    }
 }
