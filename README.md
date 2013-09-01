@@ -7,7 +7,7 @@ TweetDeck for Chrome の日本語ランゲージ
 TweetDeckの「_locales」に「ja」フォルダを入れてください。
 
 詳しい場所（Windows）
-C:\Users\<ユーザ名>\AppData\Local\Google\Chrome\User Data\Default\Extensions\hbdpomandigafcibbmofojjchbcdagbl\<バージョン>\_locales\
+C:\Users\<ユーザ名>\AppData\Local\Google\Chrome\User Data\Default\Extensions\hbdpomandigafcibbmofojjchbcdagbl\\<バージョン>\\_locales\
 
 Macではコピー先は
 /Users/<ユーザ名>/Library/Application
